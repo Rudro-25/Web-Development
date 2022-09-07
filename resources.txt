@@ -1,0 +1,6 @@
+Front End: HTML, CSS, JS
+Backend: Nodejs,
+
+
+
+# Full stack: https://fullstackopen.com/en/?fbclid=IwAR2IRG_7vTXsAcJ3QldQN2_HduYweyWMjKxedZak-guLT5abTNt062via8Y
